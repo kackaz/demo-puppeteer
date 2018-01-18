@@ -1,0 +1,4 @@
+{
+  "baseURL": "http://www.google.com",
+  "mochaTimeoutMS": 50000
+}
